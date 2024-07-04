@@ -2,19 +2,19 @@
 
 Astroship is a free starter astro website template for saas, startups, marketing websites, landing pages & blogs. Built with Astro & TailwindCSS.
 
-This Free Template is sponsored by [Web3Templates](https://web3templates.com)
+This Free Template is sponsored by [zhuyicheng](https://zhuyicheng.com)
 
 ## Live Demo
 
-**[https://astroship.web3templates.com/](https://astroship.web3templates.com/)**
+**[https://astroship.zhuyicheng.com/](https://astroship.zhuyicheng.com/)**
 
-**[Download Astroship Template](https://web3templates.com/templates/astroship-starter-website-template-for-astro)**
+**[Download Astroship Template](https://zhuyicheng.com/templates/astroship-starter-website-template-for-astro)**
 
 ## Upgrade to Astroship Pro Version
 
-**[https://astroship-pro.web3templates.com/](https://astroship-pro.web3templates.com/)**
+**[https://astroship-pro.zhuyicheng.com/](https://astroship-pro.zhuyicheng.com/)**
 
-**[Purchase Astroship Pro — $49](https://web3templates.com/templates/astroship-pro-astro-saas-website-template)**
+**[Purchase Astroship Pro — $49](https://zhuyicheng.com/templates/astroship-pro-astro-saas-website-template)**
 
 
 <!-- prettier-ignore -->
