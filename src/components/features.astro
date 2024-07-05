@@ -37,13 +37,12 @@ const features = [
   },
 ];
 ---
-
-<div class="mt-16 md:mt-0">
-  <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
-    Everything you need to study math well
+<div class="mt-16 md:mt-0 text-center"> 
+  <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight bordered-section"> 
+     Services Section
   </h2>
   <p class="text-lg mt-4 text-slate-600">
-    通过互动学习、故事化教学、实践操作、探究式学习、个性化学习路径和日常生活联系，我们激发小学生对数学的兴趣，培养他们的批判性思维，并促进个性化和实践性学习，让数学知识生动有趣且易于理解。
+    "Discover the Wonders of Mathematics at 智数小站 MathSmart."
   </p>
 </div>
 
@@ -51,7 +50,8 @@ const features = [
   {
     features.map((item) => (
       <div class="flex gap-4 items-start">
-        <div class="mt-1 bg-black rounded-full  p-2 w-8 h-8 shrink-0">
+        <div class="mt-1 bg-black rounded-full p-2 w-8 h-8 shrink-0">
+          <!-- 假设Icon组件在这里被正确渲染 -->
           <Icon class="text-white" name={item.icon} />
         </div>
         <div>
